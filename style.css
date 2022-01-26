@@ -1,4 +1,7 @@
-html {zoom: 150%;}
+html {
+  zoom: 150%;
+  scroll-behavior: smooth;
+}
 
 body {
 margin: 0;
