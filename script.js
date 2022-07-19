@@ -2,7 +2,7 @@ function GitHub(){
   location.replace("https://github.com/UMRwork")
 }
 function Twitter(){
-  location.replace("https://twitter.com/UMR_Hungry")
+  location.replace("https://twitter.com/UMR_7520")
 }
 function YouTube(){
   location.replace("https://www.youtube.com/channel/UCnrQt6Snk7a3CM5UmlYqsdQ")
